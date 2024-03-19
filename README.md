@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 
-![mysql](
-https://img.shields.io/badge/mysql-4479A1.svg
-?&style=for-the-badge&logo=mysql
-&logoColor=white)
+https://img.shields.io/badge/java%2Cgreen
+
 <!--
 **yeonyeo/yeonyeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
