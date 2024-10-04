@@ -1,7 +1,4 @@
-### Hi there 👋
 
-
-https://img.shields.io/badge/java%2Cgreen
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
